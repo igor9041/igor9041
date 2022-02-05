@@ -1,4 +1,8 @@
-### Hi
+<h1 align="center">Hi there, I'm <a>Igor</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/></h1>
+
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+
 
 ![Website ya.ru](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Website ya.ru](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
