@@ -12,5 +12,4 @@
 
 
 ![Website ya.ru](https://github-readme-stats.vercel.app/api/top-langs/?username=igor9041&theme=blue-green)
-
-
+![Website ya.ru](https://github-readme-stats.vercel.app/api?username=igor9041&theme=blue-green)
